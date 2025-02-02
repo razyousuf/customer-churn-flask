@@ -1,5 +1,3 @@
-# customer-churn-flask
-
 # Customer Churn Prediction - Flask Web App
 
 ## Overview
