@@ -9,6 +9,8 @@ This is a Flask-based web application that predicts customer churn using a pre-t
 - **Web-based Interface:** Built using Flask and rendered with HTML templates.
 - **Easy Deployment:** Install dependencies and run the app with minimal setup.
 
+Try it here: https://customer-churn-flask-production.up.railway.app/
+
 ## Project Structure
 ```
 📂 flask-churn-prediction
