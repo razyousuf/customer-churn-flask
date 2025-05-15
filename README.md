@@ -1,4 +1,4 @@
-# Customer Churn Prediction - Flask Web App
+# Customer Churn Prediction System
 
 ## Overview
 This is a Flask-based web application that predicts customer churn using a pre-trained machine learning model. The application takes user input, preprocesses the data, and provides a churn prediction result. This project is designed to assist businesses in identifying customers who are likely to churn, enabling proactive retention strategies. Try it here: https://customer-churn-flask-production.up.railway.app/
