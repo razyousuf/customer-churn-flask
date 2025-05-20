@@ -15,11 +15,12 @@ This is a Flask-based web application that predicts customer churn using a pre-t
 📂 flask-churn-prediction
 ├── images/                   # Contains snapshots of the project
 ├── static/                   # Holds static files (CSS, JS, etc.)
+├── artifacts/                # Artifacts created during the model training
+  ├── model.pkl               # Trained machine learning model
+  ├── scaler.pkl              # Scaler for preprocessing input data
 ├── templates/                # HTML templates for rendering Flask views
 ├── README.md                 # Project documentation (this file)
 ├── app.py                    # Main Flask application
-├── model.pkl                 # Trained machine learning model
-├── scaler.pkl                # Scaler for preprocessing input data
 ├── requirements.txt          # Required dependencies
 ```
 
