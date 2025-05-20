@@ -13,8 +13,8 @@ logging.basicConfig(level=logging.DEBUG)
 logger = logging.getLogger(__name__)
 
 # Load the pre-trained model, scaler, and one-hot encoder
-model = pickle.load(open('model.pkl', 'rb'))
-scaler = pickle.load(open('scaler.pkl', 'rb'))
+model = pickle.load(open('artifacts/model/model.pkl', 'rb'))
+scaler = pickle.load(open('artifacts/preprocess/scaler.pkl', 'rb'))
 #ohe = pickle.load(open('ohe.pkl', 'rb'))  # Loaded pre-fitted OneHotEncoder
 
 # Feature names as they were used during training
