@@ -70,4 +70,4 @@ Contributions are welcome! If you’d like to improve this project, feel free to
 This project is licensed under the MIT License.
 
 ## Contact
-For any questions or suggestions, feel free to reach out to [https://github.com/razyousuf].
+For any questions or suggestions, feel free to reach out to [razyousufi350@gmail.com].
